@@ -1,2 +1,2 @@
 # Braille-Bot
-This repository contains the arduino code and its schematics for a braille bot which converts the text to braille so that it can be used as an aid to the blind people. The project uses Arduino as a microcontroller, servo motors, LCD display, touch sensors and a speaker 
+This repository contains Arduino codes and schematics for a Braille bot. The bot converts text to Braille to help teach blind people Braille script. It uses an Arduino microcontroller, servo motors, an LCD display, buttons, and a 10k potentiometer. You can teach all letters, symbols, and numbers in Braille. Text can also be converted to Braille using the serial monitor, with the conversion speed adjustable via the potentiometer. Future versions might include a speaker to spell out the text.
